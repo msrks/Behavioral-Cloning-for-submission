@@ -1,5 +1,7 @@
 # Behavioral Cloning
 
+<img src="./fig/sample_dataset.png" width="1000">
+
 attention:
 
 *original repository is [myrepo](https://github.com/msrks/CarND-Behavioral-Cloning-P3).
@@ -88,6 +90,10 @@ because collected dataset on my macbook-pro by using trackpad is not good.
 I use data augumentation techinique:
 * horizontal flipping
 * 3 car mounted camera(left, center, right) and corrected ground truth angle
+
+images of the corrected dataset:
+
+<img src="./fig/sample_dataset.png" width="1000">
 
 #### more technique I used
 
